@@ -208,17 +208,3 @@ lamp-4   CHECKING_HEALTH
 
 ---
 
-# Скриншоты
-
-## 01
-![alt text](screen_15.2/01.png)
----
-## 02
-![alt text](screen_15.2/02.png)
----
-## 03
-![alt text](screen_15.2/03.png)
----
-## 04
-![alt text](screen_15.2/04.png)
----
